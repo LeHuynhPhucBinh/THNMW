@@ -404,3 +404,13 @@ button:hover {
 button i {
     margin-right: 5px;
 }
+
+.product-container {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    border: 10px solid  black;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 30px;
+}
